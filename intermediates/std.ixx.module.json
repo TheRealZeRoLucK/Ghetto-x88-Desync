@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": ".\\intermediates\\std.ixx.obj",
+            "outputs": [
+                "C:\\Users\\Kajus\\Desktop\\beta remake\\x88 proj\\intermediates\\vc143.pdb",
+                ".\\intermediates\\",
+                "C:\\Users\\Kajus\\Desktop\\beta remake\\x88 proj\\intermediates\\std.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "std",
+                    "source-path": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\modules\\std.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
